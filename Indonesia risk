@@ -1,0 +1,8 @@
+# 1. Masukkan file Excel ke staging area
+git add nama_file.xlsx
+
+# 2. Buat snapshot perubahan
+git commit -m "Menambahkan file data Excel"
+
+# 3. Kirim ke GitHub
+git push origin main
